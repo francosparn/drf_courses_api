@@ -1,4 +1,4 @@
-# Course REST API
+# :rocket: Course REST API
 
 Course **REST API** built on the **Django REST Framework**.
 
@@ -10,7 +10,7 @@ Course **REST API** built on the **Django REST Framework**.
 - Search filters for courses, students and teachers.
 - Custom permissions.
 
-And some more features.
+And some more features! :wink:
 
 ## Project run
 
