@@ -1,6 +1,16 @@
 # Course REST API
 
-Course REST API built on the Django REST Framework.
+Course **REST API** built on the **Django REST Framework**.
+
+**Some features of the project**:
+
+- Creation of users by token.
+- Create, edit and delete courses, students and teachers.
+- Pagination of courses, students and teachers.
+- Search filters for courses, students and teachers.
+- Custom permissions.
+
+And some more features.
 
 ## Project run
 
